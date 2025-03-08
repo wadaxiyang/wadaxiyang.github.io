@@ -1,3 +1,4 @@
+https://wadaxiyang.github.io/2025/03/08/qt-for-android-with-mac/
 https://wadaxiyang.github.io/2024/01/08/bash-beautiful/
 https://wadaxiyang.github.io/2025/02/22/cpp-for-vscode/
 https://wadaxiyang.github.io/2025/02/21/WSL2_proxy/
@@ -11,4 +12,6 @@ https://wadaxiyang.github.io/tags/bash/
 https://wadaxiyang.github.io/tags/%E7%BE%8E%E5%8C%96/
 https://wadaxiyang.github.io/tags/cpp/
 https://wadaxiyang.github.io/tags/vscode/
+https://wadaxiyang.github.io/tags/QT/
+https://wadaxiyang.github.io/tags/Android/
 https://wadaxiyang.github.io/categories/%E9%85%8D%E7%BD%AE/
